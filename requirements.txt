@@ -1,0 +1,8 @@
+qiskit==0.43.0
+qiskit-aer
+qiskit-machine-learning
+qiskit-nature
+qiskit-algorithms
+qiskit-optimization
+numpy
+web3
